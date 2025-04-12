@@ -1,13 +1,12 @@
-package com.example.chatecholib
+package com.example.libchat
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.chatecholib.databinding.ActivityChatBinding
+import com.example.libchat.databinding.ActivityChatBinding
 import okhttp3.*
 import okio.ByteString
 import java.text.SimpleDateFormat
 import java.util.*
-import java.util.concurrent.TimeUnit
 
 class ChatActivity : AppCompatActivity() {
 

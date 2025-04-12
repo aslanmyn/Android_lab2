@@ -1,4 +1,4 @@
-package com.example.chatecholib
+package com.example.libchat
 
 import android.app.Activity
 import android.content.Context

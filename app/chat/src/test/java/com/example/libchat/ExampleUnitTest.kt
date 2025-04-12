@@ -1,4 +1,4 @@
-package com.example.chatecholib
+package com.example.libchat
 
 import org.junit.Test
 

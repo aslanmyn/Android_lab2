@@ -1,4 +1,4 @@
-package com.example.chatecholib
+package com.example.libchat
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
